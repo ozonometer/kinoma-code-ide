@@ -1,0 +1,24 @@
+{
+	"files":[
+		"./docs/index.md",
+
+		"./docs/create-user-guide/create-user-guide.md",
+		"./docs/element-quick-start/element-quick-start.md",
+		"./docs/element/element.md",
+		"./docs/overview/overview.md",
+		"./docs/javascript/javascript.md",
+		"./docs/files-api/files-api.md",
+		"./docs/xml/xml.md",
+		"./docs/pins/pins.md",
+		"./docs/element-bll/element-bll.md",
+		"./docs/element-pins-module/element-pins-module.md",
+
+		"./docs/technotes/introducing-kinomajs-dictionary-based-constructors-and-templates/index.md",
+		"./docs/technotes/using-javascript-6th-edition-features-in-kinomajs/index.md",
+		"./docs/technotes/coap-client-and-server-in-kinomajs/index.md",
+		"./docs/technotes/embedding-an-http-server-in-your-application/index.md",
+		"./docs/technotes/using-dial-to-launch-apps-remotely/index.md",
+		"./docs/technotes/pins-simulators/index.md",
+	],
+	"force":false
+}
