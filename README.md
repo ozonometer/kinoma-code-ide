@@ -10,8 +10,8 @@ Windows 10 Screenshot:
 El Capitan Screenshot:
 ![Screen Shot mac](https://github.com/ozonometer/kinoma-code-ide/assets/15060227/2a9a58de-0c70-43d3-a5a3-fa770c6a694e)
 
+
 Java 11 program to install scripts
 ![image](https://github.com/ozonometer/kinoma-code-ide/assets/15060227/1279ddd1-4365-4594-9178-aa8a4f2d18cf)
-
 ![image](https://github.com/ozonometer/kinoma-code-ide/assets/15060227/93108ee2-5da2-4017-adce-99cf008ff639)
 
